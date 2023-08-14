@@ -7,8 +7,7 @@ A simple TODO list application built with TypeScript.
 - [Features](#features)
 - [Installation](#Installation)
 - [TechStack](#techstack)
-
-
+- [Frontend](#frontend)
 
 ## Features
 
@@ -34,37 +33,45 @@ Your TODO List App comes with a range of features to help you manage your tasks 
 
 - **Effortless Collaboration**: With a clear separation of backend and frontend repositories, collaborating on this project becomes straightforward for developers.
 
-
 ## Installation
 
 To get your TODO List App backend up and running, follow these simple steps:
 
 1. **Clone the Repository**: Use the following command to clone the repository:
 
-    ```bash
-    git clone https://github.com/penevmx/todo-api
-    ```
+   ```bash
+   git clone https://github.com/penevmx/todo-api
+   ```
 
 2. **Install Packages**: Install the required packages by running:
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 3. **Run the Server**: Start the server on `localhost` port `3200` with the following command:
 
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
 
 Now your TODO List App backend is installed and ready to be used.
 
+![Alt text](image.png)
 ## **TechStack**
 
 The TODO List App Backend is built using the following technologies:
 
+- ReactJS
 - TypeScript
+- NodeJS
 - Express.js
 - TypeORM
 - MySQL
 
+
+## Frontend
+
+```
+https://github.com/penevmx/todoApp
+```
