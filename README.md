@@ -42,7 +42,7 @@ To get your TODO List App backend up and running, follow these simple steps:
 1. **Clone the Repository**: Use the following command to clone the repository:
 
     ```bash
-    git clone https://github.com/penevmx/todoApp
+    git clone https://github.com/penevmx/todo-api
     ```
 
 2. **Install Packages**: Install the required packages by running:
